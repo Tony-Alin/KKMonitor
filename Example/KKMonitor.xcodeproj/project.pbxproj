@@ -62,11 +62,11 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		75760E656FBF92A0D9728B4E /* Pods-KKMonitor_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKMonitor_Tests.debug.xcconfig"; path = "Target Support Files/Pods-KKMonitor_Tests/Pods-KKMonitor_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9971E59EACDE9693549FCA24 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		99B4B5801ABCAD9E8B20C06F /* KKMonitor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KKMonitor.podspec; path = ../KKMonitor.podspec; sourceTree = "<group>"; };
+		9971E59EACDE9693549FCA24 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		99B4B5801ABCAD9E8B20C06F /* KKMonitor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KKMonitor.podspec; path = ../KKMonitor.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1D82FF2A5F8ABDF811C5147 /* Pods_KKMonitor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKMonitor_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B527D536E55C8D9D3990F2 /* Pods-KKMonitor_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKMonitor_Example.release.xcconfig"; path = "Target Support Files/Pods-KKMonitor_Example/Pods-KKMonitor_Example.release.xcconfig"; sourceTree = "<group>"; };
-		D75F582C082B3F6C0F999EA0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D75F582C082B3F6C0F999EA0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,6 @@
 				75760E656FBF92A0D9728B4E /* Pods-KKMonitor_Tests.debug.xcconfig */,
 				2015D23CEE5691CB4D941D7D /* Pods-KKMonitor_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
