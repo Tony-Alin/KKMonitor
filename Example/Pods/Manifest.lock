@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - KKMonitor (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - KKMonitor (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  KKMonitor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  KKMonitor: 5883f782516f0a53100c8f0aceddcd5949875b49
+
+PODFILE CHECKSUM: e1a07830d40098de0221a534a20f389e30e6ffaa
+
+COCOAPODS: 1.9.1
