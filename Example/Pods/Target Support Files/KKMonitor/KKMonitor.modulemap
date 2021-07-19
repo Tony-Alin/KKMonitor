@@ -1,6 +1,0 @@
-framework module KKMonitor {
-  umbrella header "KKMonitor-umbrella.h"
-
-  export *
-  module * { export * }
-}

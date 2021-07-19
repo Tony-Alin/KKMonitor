@@ -1,27 +1,27 @@
 PODS:
+  - CxyMonitorKit (0.1.0)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - KKMonitor (0.1.0)
 
 DEPENDENCIES:
+  - CxyMonitorKit (from `../`)
   - FBSnapshotTestCase
-  - KKMonitor (from `../`)
 
 SPEC REPOS:
   trunk:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
-  KKMonitor:
+  CxyMonitorKit:
     :path: "../"
 
 SPEC CHECKSUMS:
+  CxyMonitorKit: f0e805c3832dab34bcebeb929c27d19150433cfd
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  KKMonitor: 5883f782516f0a53100c8f0aceddcd5949875b49
 
-PODFILE CHECKSUM: e1a07830d40098de0221a534a20f389e30e6ffaa
+PODFILE CHECKSUM: a9a9ff66c3010ed381744e849be7f1ab7bed9de8
 
 COCOAPODS: 1.9.1

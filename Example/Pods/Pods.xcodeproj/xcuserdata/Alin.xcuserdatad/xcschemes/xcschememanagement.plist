@@ -4,22 +4,22 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CxyMonitorKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>FBSnapshotTestCase.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>KKMonitor.xcscheme</key>
+		<key>Pods-CxyMonitorKit_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-KKMonitor_Example.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-KKMonitor_Tests.xcscheme</key>
+		<key>Pods-CxyMonitorKit_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

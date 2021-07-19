@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '9.0'
 
-target 'KKMonitor_Example' do
-  pod 'KKMonitor', :path => '../'
+target 'CxyMonitorKit_Example' do
+  pod 'CxyMonitorKit', :path => '../'
 
-  target 'KKMonitor_Tests' do
+  target 'CxyMonitorKit_Tests' do
     inherit! :search_paths
 
     pod 'FBSnapshotTestCase'

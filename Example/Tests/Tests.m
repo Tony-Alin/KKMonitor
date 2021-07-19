@@ -1,8 +1,8 @@
 //
-//  KKMonitorTests.m
-//  KKMonitorTests
+//  CxyMonitorKitTests.m
+//  CxyMonitorKitTests
 //
-//  Created by Tony-Alin on 07/18/2021.
+//  Created by Tony-Alin on 07/19/2021.
 //  Copyright (c) 2021 Tony-Alin. All rights reserved.
 //
 
